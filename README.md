@@ -8,7 +8,7 @@
 
 **EDAS.rumah** adalah platform berbasis web (Software as a Service) yang dirancang untuk mendukung pengambilan keputusan pemilihan hunian secara objektif. Sistem ini mengimplementasikan metode matematika **EDAS (Evaluation Based on Distance from Average Solution)** untuk melakukan pemeringkatan alternatif properti berdasarkan kriteria yang dapat disesuaikan.
 
-## Teknologi Utama
+## Tech
 
 ### Frontend
 - Framework: Next.js 15 (App Router)
