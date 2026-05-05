@@ -1,4 +1,4 @@
-# EDAS.rumah - Decision Support System for Property Selection
+# oemah.mu - Decision Support System for Property Selection
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -6,7 +6,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-**EDAS.rumah** adalah platform berbasis web (Software as a Service) yang dirancang untuk mendukung pengambilan keputusan pemilihan hunian secara objektif. Sistem ini mengimplementasikan metode matematika **EDAS (Evaluation Based on Distance from Average Solution)** untuk melakukan pemeringkatan alternatif properti berdasarkan kriteria yang dapat disesuaikan.
+**oemah.mu** adalah platform berbasis web (Software as a Service) yang dirancang untuk mendukung pengambilan keputusan pemilihan hunian secara objektif. Sistem ini mengimplementasikan metode matematika **EDAS (Evaluation Based on Distance from Average Solution)** untuk melakukan pemeringkatan alternatif properti berdasarkan kriteria yang dapat disesuaikan.
 
 ## Tech
 
