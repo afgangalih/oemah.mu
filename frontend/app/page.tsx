@@ -8,8 +8,8 @@ export default function LandingPage() {
       <nav className="fixed top-6 left-1/2 -translate-x-1/2 w-[90%] max-w-7xl z-50 bg-white border border-slate-200 h-16 rounded-2xl shadow-sm">
         <div className="px-8 h-full flex items-center justify-between">
           <div className="flex items-center gap-3 font-bold text-lg tracking-tight">
-            <img src="/logo.png" alt="EDAS Logo" className="h-8 w-auto object-contain" />
-            <span className="hidden sm:block">oemah.mu</span>
+            <img src="/logo-edas.png" alt="EDAS Logo" className="h-8 w-auto object-contain" />
+            <span className="hidden sm:block">EDAS.rumah</span>
           </div>
           <div className="hidden md:flex items-center gap-8 text-[11px] font-bold uppercase tracking-widest text-slate-400">
             <Link href="#metode" className="hover:text-emerald-600 transition-colors">Metode</Link>
@@ -131,9 +131,9 @@ export default function LandingPage() {
             <div className="md:col-span-4 space-y-6">
               <div className="flex items-center gap-4 font-bold text-2xl tracking-tight">
                 <div className="p-2 bg-white rounded-xl shadow-lg">
-                  <img src="/logo.png" alt="EDAS Logo" className="h-10 w-auto object-contain" />
+                  <img src="/logo-edas.png" alt="EDAS Logo" className="h-10 w-auto object-contain" />
                 </div>
-                oemah.mu
+                EDAS.rumah
               </div>
               <p className="text-emerald-50/70 text-sm font-medium leading-relaxed max-w-xs">
                 Platform analisis keputusan hunian paling presisi untuk masa depan Anda.
@@ -167,7 +167,7 @@ export default function LandingPage() {
           </div>
 
           <div className="mt-16 pt-8 border-t border-white/10 flex justify-between items-center text-[10px] font-bold text-emerald-200/40 uppercase tracking-widest">
-            <p>© 2026 EDAS RUMAH PROJECT</p>
+            <p>© 2026 EDAS.RUMAH PROJECT</p>
             <div className="flex gap-4">
                <span>FASTAPI</span>
                <span>NEXTJS</span>

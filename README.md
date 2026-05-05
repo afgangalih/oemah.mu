@@ -8,7 +8,13 @@
 
 **oemah.mu** adalah platform berbasis web (Software as a Service) yang dirancang untuk mendukung pengambilan keputusan pemilihan hunian secara objektif. Sistem ini mengimplementasikan metode matematika **EDAS (Evaluation Based on Distance from Average Solution)** untuk melakukan pemeringkatan alternatif properti berdasarkan kriteria yang dapat disesuaikan.
 
-## Tech
+## System Preview
+
+| Landing Page | Calculator Dashboard | Analytical Results |
+| :---: | :---: | :---: |
+| ![Landing Page](docs/screenshots/oemahmo1.png) | ![Calculator Dashboard](docs/screenshots/oemahmo2.png) | ![Analytical Results](docs/screenshots/oemahmo3.png) |
+
+## Teknologi Utama
 
 ### Frontend
 - Framework: Next.js 15 (App Router)

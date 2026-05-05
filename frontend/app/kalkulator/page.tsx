@@ -104,7 +104,7 @@ export default function KalkulatorPage() {
               <ArrowLeft className="w-4 h-4 text-slate-500" />
             </Link>
             <div className="flex items-center gap-3">
-               <img src="/logo.png" alt="EDAS Logo" className="h-7 w-auto object-contain" />
+               <img src="/logo-edas.png" alt="EDAS Logo" className="h-7 w-auto object-contain" />
                <div className="flex flex-col">
                   <h1 className="text-base font-bold tracking-tight flex items-center gap-2 leading-none">
                     Analisis Rumah
@@ -268,7 +268,7 @@ export default function KalkulatorPage() {
 
       <footer className="max-w-[1400px] mx-auto px-10 py-10 flex justify-between items-center border-t border-slate-100">
         <div className="flex items-center gap-3 font-bold text-slate-300 uppercase tracking-widest text-[10px]">
-           <img src="/logo.png" alt="Logo" className="h-5 w-auto grayscale opacity-50" />
+           <img src="/logo-edas.png" alt="Logo" className="h-5 w-auto grayscale opacity-50" />
            EDAS.rumah Analytics
         </div>
         <p className="text-[10px] font-bold text-slate-200 uppercase tracking-[0.2em]">© 2026 MATHEMATICAL ACCURACY GUARANTEED</p>
